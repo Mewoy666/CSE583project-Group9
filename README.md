@@ -41,7 +41,7 @@ Our dataset contains 5 main files:
 
 ​	**User input:** 5 filters: genre, year, country, director, actor 
 
-​	**System output:** Recommended movies based on movie popularity
+​	**System output:** Recommended movies based on movie popularity and rating
 
 **Use case 2:**
 
@@ -53,11 +53,11 @@ Our dataset contains 5 main files:
 
 **Use case 3:**
 
-**For collaborative filtering:**
+**For user based filtering:**
 
 ​	**User input:** User id
 
-​	**System output:** Recommended movies by user based filtering and item based filtering. For user-based recommendation, the system recommends movies to the user that similar users like. 
+​	**System output:** Recommended movies by user based filtering. For user-based recommendation, the system recommends movies to the user that similar users like. 
 ![img](https://lh4.googleusercontent.com/RJmo8OrXxaQEqj7T__PjD2s_tCYHkKu-OFG1Oo9GKZ0sTE27OqylQ62R1q5MkAuWj1KNI_bYItuoyoaSkQloaXuYvOGYYfWZbxAHwYgx026Q-t1_pifpiG7vPxUWAjT0JrlnJjC9)
 
 ## Component Specification
